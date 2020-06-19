@@ -1,0 +1,10 @@
+.greenWord{
+    color : #449F8D;
+}
+#name{
+    font-weight: bold;
+}
+#headerBottomBG{
+    background-image: url('../img/headerBG.jpg');
+    height: 75px;
+}
